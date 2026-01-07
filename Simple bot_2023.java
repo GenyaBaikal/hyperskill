@@ -66,3 +66,4 @@ public class SimpleBot {
         System.out.println("Congratulations, have a nice day!"); // Do not change this text
     }
 }
+
